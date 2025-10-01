@@ -1,0 +1,93 @@
+.principal-title h5 {
+    font-size: 6vw;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+}
+
+.principal-image {
+    width: auto;
+    height: 590PX;
+    border-radius: 20px;
+}
+
+.principal-image img {
+    border-radius: 20px;
+    object-fit: cover;
+    object-position: top;
+}
+
+.logos-wrapper {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    justify-content: center;
+}
+
+.title-resumen {
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+.title-resumen h4 {
+    font-size: 4.5vw;
+    font-weight: 500;
+}
+
+.card {
+    width: 50%;
+    display: flex;
+    margin-left: auto;
+    font-size: 15px;
+    line-height: 2;
+}
+
+.card p {
+    color: white;
+}
+
+.secondary-image {
+    width: auto;
+    height: 590PX;
+    border-radius: 20px;
+    display: flex;
+    justify-content: start;
+    align-items: end;
+    
+}
+
+.secondary-image img {
+    border-radius: 20px;
+    object-fit: cover;
+    object-position: top;
+    
+}
+
+.card-concepts {
+    background-color: #1c1c1c;
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+    border-radius: 30px;
+    padding: 15px;
+    width: 90%;
+}
+
+.collapse ul{
+    color: white;
+}
+
+.btn-collapse {
+    width: 10%;
+}
+
+.btn-collapse img {
+    background-color: transparent;
+    color: white;
+}
+
+.card {
+    margin: auto;
+    width: 90%;
+}
